@@ -1,6 +1,5 @@
 # Binary executables from book_files
 book_files/client4
-book_files/compile_all_user.sh
 book_files/dumplogfile4
 book_files/eventtospan3
 book_files/flt_hog
