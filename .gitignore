@@ -34,3 +34,8 @@ book_files/mystery3_opt
 book_files/queuetest
 book_files/server_disk
 book_files/server_mystery21
+
+# Chapter 2
+chapter_2/add_instruction
+chapter_2/measure_64bit_add
+chapter_2/test_number_of_loops
